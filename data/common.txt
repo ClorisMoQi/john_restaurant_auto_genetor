@@ -1,0 +1,4 @@
+@channel\n哈喽大家$1好 :blush: ，大家加班辛苦啦，我们$2OT Meal目的地是：$3\n需要上车点餐的老板请在下面的链接里sign up your full name在G列：（$4:$5 $6 截单）\n$7\n这是菜单链接: \n$8\nThanks and enjoy it！~:yum:\n\n
+
+@channel\nGood $1 guys :blush: , we're going to order the OT meal for $2 from: $3, \nplease sign up your full name in column G below the OT Meal For $4 if you need, here is the link for the name sheet: $5:$6 $7 end\n" +
+			googleSheetLink + "\nand menu: \n" + drdLink + "\nThanks and enjoy it！~:yum:\n
